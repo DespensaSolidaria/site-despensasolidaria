@@ -349,6 +349,10 @@ section.home {
   color: var(--text-color);
 }
 
+.email-tamanho {
+  font-size: 13px;
+}
+
 /* MEDIA QUERIES */
 @media (min-width: 768px) {
   .services {
@@ -417,7 +421,7 @@ section.home {
   }
 
   .contact-info {
-    width: 350px;
+    width: 450px;
     margin-top: 0;
     padding: 60px 40px 20px;
   }
